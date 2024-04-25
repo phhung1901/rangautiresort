@@ -1,0 +1,37 @@
+.form-box {
+    background: rgba(0, 0, 0, 0.82);
+    /* color: #fff; */
+    padding: 20px;
+    position: relative;
+    z-index: 1;
+}
+.order-now{
+    padding: 7px 10px;
+    background: #fdfcfc;
+    color: #4d566b;
+    font-weight: bold;
+    border: 1px solid #fff;
+}
+.form-box .input-group {width: 100%; color: #fff}
+.form-box label {color: #fff}
+
+/*
+     FILE ARCHIVED ON 20:14:06 Apr 22, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:27:56 Apr 24, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.791
+  exclusion.robots: 0.226
+  exclusion.robots.policy: 0.213
+  cdx.remote: 0.076
+  esindex: 0.012
+  LoadShardBlock: 346.794 (3)
+  PetaboxLoader3.datanode: 220.842 (4)
+  PetaboxLoader3.resolve: 146.365 (2)
+  load_resource: 132.988
+*/
