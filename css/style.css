@@ -2584,7 +2584,7 @@ select.ht-field {
 /*---------------Best offer-3 section----------------*/
 
 .best-offer-3 {
-    background-image: url('/web/20230830110842im_/http://www.rangautiresort.com/img/background/pool.jpg');
+    background-image: url('../img/background/pool.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
